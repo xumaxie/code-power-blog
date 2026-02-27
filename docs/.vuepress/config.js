@@ -58,6 +58,13 @@ export default defineUserConfig({
             '/guide/java/基础/02-面向对象.md',
           ],
         },
+				{
+					text: '工具',
+					collapsible: true,
+					children: [
+						'/guide/java/工具/01-tools.md',
+					],
+				},
         {
           text: '并发编程',
           collapsible: true,
