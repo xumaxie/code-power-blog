@@ -71,6 +71,7 @@ export default defineUserConfig({
           collapsible: true,
           children: [
             '/guide/java/框架/01-Spring-IoC.md',
+            '/guide/java/框架/SpringBoot/01-线程基础.md',
           ],
         },
         {
