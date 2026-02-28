@@ -4,3 +4,4 @@ node_modules
 dist
 vuepressdist
 *.log
+/.idea/vcs.xml
